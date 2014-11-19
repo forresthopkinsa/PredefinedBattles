@@ -3,7 +3,7 @@ public class PredefinedBattlesMain {
 
 	public static void main(String[] args) {
 		Scanner keyInput = new Scanner(System.in);
-		String version = "1.0";
+		String version = "1.01";
 		int team1Power;
 		int team2Power;
 		Team team1;
